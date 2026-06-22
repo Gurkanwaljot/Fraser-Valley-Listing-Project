@@ -1,0 +1,1 @@
+ALTER TABLE listings ADD COLUMN IF NOT EXISTS property_taxes numeric(12,2);
